@@ -1,6 +1,6 @@
-<div>
+<a href="https://leetcode.com/shafiulshaon/">
   <img padding="5px" src="https://leetcard.jacoblin.cool/shafiulshaon?theme=light" />
-</div>
+</a>
 <div style="width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=shafiulshaon&count_private=true&show_icons=true&theme=vue&hide=contribs" />
 <div>

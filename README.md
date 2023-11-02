@@ -1,8 +1,6 @@
-👨‍💻 As a seasoned Software Development Engineer with more than four and a half years of industry experience, I've honed my skills in crafting robust and innovative solutions within the tech landscape. My journey has seen me at the forefront of both client-centric and proprietary projects, where I've taken a dynamic role in steering technical dialogues, architecting design blueprints, and pioneering feature developments.
+🔍 Overview:
 
-🌐 My expertise extends to orchestrating infrastructure and operations, particularly within the AWS ecosystem, where I've collaborated with cross-functional teams to sculpt user experiences that are as intuitive as they are impactful.
-
-🤝 In this ever-evolving field, I remain committed to merging technical acumen with collaborative spirit to drive forward the next wave of digital excellence.
+With over 4.5 years of experience as a Software Development Engineer, I have been leveraging my practical knowledge in the information technology and services industry. I have experience working on both client-facing and in-house projects, actively participating in technical discussions, creating design documents, and developing new features. I have also been involved in infrastructure setup and operations using various AWS services, working in collaboration with the team to achieve an intuitive and effective user experience.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiulshaon&theme=vue" />
